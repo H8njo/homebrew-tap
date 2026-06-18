@@ -1,6 +1,6 @@
 cask "afk" do
   version "1.0.0"
-  sha256 "8ac08e27a9ab779655a995839735941b46efed8324cb7885ceada73b57227955"
+  sha256 "b3146d65b1ac1d3c72d87cc78fa4c4d1ea99c94b5c35f246fee7d3308343f287"
 
   url "https://github.com/H8njo/afk/releases/download/v#{version}/AFK.zip"
   name "AFK"
